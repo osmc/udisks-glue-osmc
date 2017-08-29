@@ -1,0 +1,65 @@
+1.3.5
+=====
+
+* Code cleanups, compilation fixes.
+
+1.3.4
+=====
+
+* Bugfix release.
+
+1.3.3
+=====
+
+* Bugfix release.
+
+1.3.2
+=====
+
+* Bugfix release.
+* New filter parameters that can be used to identify audio CDs.
+
+1.3.1
+=====
+
+* Bugfix release.
+* Cleaned up the manual pages.
+
+1.3.0
+=====
+
+* Automount support.
+* Some more properties.
+* Internal cleanup.
+
+1.2.1
+=====
+
+* Bugfix release.
+* ConsokeKit session support.
+
+1.2.0
+=====
+
+* Switch to autotools.
+* Separate unmounting from removal.
+* Mount devices on startup.
+* Enhanced pidfile support.
+
+1.1.1
+=====
+
+* Bugfix release.
+* Pidfile support.
+
+1.1.0
+=====
+
+* Respect the XDG paths properly.
+* Filter by string properties too.
+* New license.
+
+1.0.0
+=====
+
+* Initial release.
